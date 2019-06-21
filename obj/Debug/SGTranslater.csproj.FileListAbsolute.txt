@@ -1,0 +1,5 @@
+C:\Users\emtiy\Documents\GitHub\SGTranslater\obj\Debug\SGTranslater.csprojAssemblyReference.cache
+C:\Users\emtiy\Documents\GitHub\SGTranslater\obj\Debug\SGTranslater.Form1.resources
+C:\Users\emtiy\Documents\GitHub\SGTranslater\obj\Debug\SGTranslater.Properties.Resources.resources
+C:\Users\emtiy\Documents\GitHub\SGTranslater\obj\Debug\SGTranslater.csproj.GenerateResource.cache
+C:\Users\emtiy\Documents\GitHub\SGTranslater\obj\Debug\SGTranslater.csproj.CoreCompileInputs.cache

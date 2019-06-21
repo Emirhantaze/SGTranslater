@@ -1,0 +1,15 @@
+C:\Users\emtiy\Documents\GitHub\SGTranslater\obj\Release\SGTranslater.csprojAssemblyReference.cache
+C:\Users\emtiy\Documents\GitHub\SGTranslater\obj\Release\SGTranslater.Form1.resources
+C:\Users\emtiy\Documents\GitHub\SGTranslater\obj\Release\SGTranslater.Properties.Resources.resources
+C:\Users\emtiy\Documents\GitHub\SGTranslater\obj\Release\SGTranslater.csproj.GenerateResource.cache
+C:\Users\emtiy\Documents\GitHub\SGTranslater\obj\Release\SGTranslater.csproj.CoreCompileInputs.cache
+C:\Users\emtiy\Documents\GitHub\SGTranslater\bin\Release\SGTranslater.exe.config
+C:\Users\emtiy\Documents\GitHub\SGTranslater\bin\Release\SGTranslater.exe
+C:\Users\emtiy\Documents\GitHub\SGTranslater\bin\Release\SGTranslater.pdb
+C:\Users\emtiy\Documents\GitHub\SGTranslater\obj\Release\SGTranslater.exe
+C:\Users\emtiy\Documents\GitHub\SGTranslater\obj\Release\SGTranslater.pdb
+C:\Users\emtiy\Documents\GitHub\SGTranslater\bin\Release\Microsoft.WindowsAPICodePack.dll
+C:\Users\emtiy\Documents\GitHub\SGTranslater\bin\Release\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\emtiy\Documents\GitHub\SGTranslater\bin\Release\Microsoft.WindowsAPICodePack.xml
+C:\Users\emtiy\Documents\GitHub\SGTranslater\bin\Release\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\emtiy\Documents\GitHub\SGTranslater\obj\Release\SGTranslater.csproj.CopyComplete
