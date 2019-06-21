@@ -23,14 +23,16 @@ namespace SGTranslater
 
         private void Form1_Load(object sender, EventArgs e)
         {
-
+          
         }
 
         private void Button1_Click(object sender, EventArgs e)
         {
             using (CommonOpenFileDialog open = new CommonOpenFileDialog())
             {
-                open.IsFolderPicker = true;
+                open.IsFolderPicker = false;
+                open.Multiselect = true;
+
                 open.DefaultDirectory = "d:\\";
                 open.InitialDirectory = "d:\\";
                 if (open.ShowDialog() == CommonFileDialogResult.Ok)
@@ -39,6 +41,12 @@ namespace SGTranslater
                 }
                 MessageBox.Show(a);
             }
+        }
+
+        private void Button2_Click(object sender, EventArgs e)
+        {
+            Dosyalar dosya = new Dosyalar("D:\\test.txt");
+            label1.Text = dosya.text;
         }
     }
 }
