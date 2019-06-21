@@ -45,8 +45,21 @@ namespace SGTranslater
 
         private void Button2_Click(object sender, EventArgs e)
         {
-            Dosyalar dosya = new Dosyalar("D:\\test.txt");
+            Dosyalar dosya = new Dosyalar(".\\save.txt");
             label1.Text = dosya.text;
+        }
+
+        private void Button3_Click(object sender, EventArgs e)
+        {
+            Form2 form2 = new Form2();
+            form2.Show();
+            this.Visible = false;
+
+        }
+
+        private void Form1_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            Application.Exit();
         }
     }
 }

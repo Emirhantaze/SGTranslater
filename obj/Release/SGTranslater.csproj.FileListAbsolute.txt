@@ -13,3 +13,4 @@ C:\Users\emtiy\Documents\GitHub\SGTranslater\bin\Release\Microsoft.WindowsAPICod
 C:\Users\emtiy\Documents\GitHub\SGTranslater\bin\Release\Microsoft.WindowsAPICodePack.xml
 C:\Users\emtiy\Documents\GitHub\SGTranslater\bin\Release\Microsoft.WindowsAPICodePack.Shell.xml
 C:\Users\emtiy\Documents\GitHub\SGTranslater\obj\Release\SGTranslater.csproj.CopyComplete
+C:\Users\emtiy\Documents\GitHub\SGTranslater\obj\Release\SGTranslater.Form2.resources
